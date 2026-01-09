@@ -1,4 +1,5 @@
-## Hi there 👋
+#오성균
+Sung-gyun Oh
 
 <!--
 **Osg523/Osg523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
